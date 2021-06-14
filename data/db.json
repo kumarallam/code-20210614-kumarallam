@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Bmi": 5
+  },
+  "models": {
+    "Bmi": {
+      "1": "{\"Gender\": \"Male\", \"HeightCm\": 171, \"WeightKg\": 96 }",
+      "2": "{\"Gender\": \"Male\", \"HeightCm\": 180, \"WeightKg\": 75 }",
+      "3": "{\"Gender\": \"Male\", \"HeightCm\": 120, \"WeightKg\": 96 }",
+      "4": "{\"Gender\": \"Male\", \"HeightCm\": 153, \"WeightKg\": 60 }"
+    }
+  }
+}
